@@ -23,4 +23,6 @@ while (true)
     
     Console.Clear();
     Console.WriteLine("Average: " +StatisticHelper.CalculateAverage(list));
+    Console.WriteLine("Max: " + StatisticHelper.CalculateMax(list));
+    
 }
