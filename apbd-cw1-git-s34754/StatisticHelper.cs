@@ -36,4 +36,9 @@ public class StatisticHelper
     {
         return numbers.Average();
     }
+    
+    public static double CalculateMode(List<double> numbers)
+    {
+        return numbers.Max() - numbers.Min();
+    }
 }
