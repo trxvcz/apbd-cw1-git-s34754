@@ -26,5 +26,9 @@ public class StatisticHelper
     {
         return numbers.Min();
     }
-    
+
+    public static double CalculateMin(double[] numbers)
+    {
+        return numbers.Min();
+    }
 }
