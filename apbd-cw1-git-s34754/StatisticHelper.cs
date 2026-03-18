@@ -31,4 +31,9 @@ public class StatisticHelper
     {
         return numbers.Min();
     }
+    
+    public static double CalculateMean(List<double> numbers)
+    {
+        return numbers.Average();
+    }
 }
