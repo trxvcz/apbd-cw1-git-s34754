@@ -21,4 +21,10 @@ public class StatisticHelper
     {
         return numbers.Max();
     }
+
+    public static double CalculateMin(List<double> numbers)
+    {
+        return numbers.Min();
+    }
+    
 }
