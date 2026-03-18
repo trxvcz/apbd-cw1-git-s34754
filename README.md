@@ -1,5 +1,5 @@
 APBD-LAB1
-
+s34754 
 zadanie 5: merge nie był fast-forward ponieważ przed mergem został dodany comit na mainie
 
 1. Fast-forward następuje, gdy gałąź główna nie zmieniła się od momentu rozgałęzienia, natomiast merge commit powstaje, gdy obie gałęzie ruszyły do przodu i wymagają fizycznego połączenia dwóch różnych historii.
