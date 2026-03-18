@@ -12,4 +12,13 @@ public class StatisticHelper
         return sum / numbers.Count;
     }
 
+    public static double CalculateMax(List<double> numbers)
+    {
+        return numbers.Max();
+    }
+
+    public static double CalculateMax(double[] numbers)
+    {
+        return numbers.Max();
+    }
 }
