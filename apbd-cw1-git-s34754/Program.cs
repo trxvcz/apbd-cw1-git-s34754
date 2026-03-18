@@ -19,5 +19,6 @@ while (true)
         Console.WriteLine("Niepoprawny numer:");
     }
     
-    
+    Console.Clear();
+    ;
 }
