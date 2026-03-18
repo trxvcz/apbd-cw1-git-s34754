@@ -16,5 +16,9 @@ public class StatisticHelper
     {
         return numbers.Max();
     }
-    
+
+    public static double CalculateMax(double[] numbers)
+    {
+        return numbers.Max();
+    }
 }
